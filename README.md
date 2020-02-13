@@ -18,9 +18,10 @@ Dev-Kit
 -------
 
 You can find the development kit at https://www.modellwerkstatt.org/xxwerk20ddd/javaexe.zip. This zip contains a fully 
-configured MPS335, with necessary pluginss, werkbank itself and the demo-project. The later two projects are hosted publically 
-on git. Tomcat is also packaged, in case you want to run the app as web-app locally. I would recommend the java-fx runtime for 
-local experimentation. 
+configured MPS335, with necessary plugins, and the demo-project. The werkbank plugin has to be downloaded from 
+https://github.com/danielstieger/moware35/releases/tag/2019.38 The post-office app itself is also hosted on git at 
+https://github.com/danielstieger/postoffice Tomcat as a webserver is again packaged in the zip, in case you want 
+to run the app as web-app locally. I would recommend the java-fx runtime for local experimentation. 
 
 Not included ist the java runtime itselft. Typically we are using the last version not demanding any licenes (
 https://www.oracle.com/technetwork/java/javase/downloads/java-archive-javase8-2177648.html) Additionally, mariadb as a database
